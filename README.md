@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Name: Sannidhya Agrawal
+Program: B.Tech
+Branch: CSE (HI)
+Batch:2025-29
+
+I, student of VIT Bhopal university, want to learn about digital literacy, it's importance and how it can effect the way we are using social media.
+
+
+
